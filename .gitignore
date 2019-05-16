@@ -1,0 +1,4 @@
+### Go Patch ###
+!vendor/
+!vendor/vendor.json
+vendor/**/
